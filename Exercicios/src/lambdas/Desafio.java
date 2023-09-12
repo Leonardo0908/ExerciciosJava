@@ -1,7 +1,5 @@
 package lambdas;
 
-import java.math.BigDecimal;
-import java.math.RoundingMode;
 import java.util.function.Function;
 import java.util.function.UnaryOperator;
 
